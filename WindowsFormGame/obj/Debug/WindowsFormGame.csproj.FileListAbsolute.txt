@@ -1,0 +1,12 @@
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\bin\Debug\WindowsFormGame.exe.config
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\bin\Debug\WindowsFormGame.exe
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\bin\Debug\WindowsFormGame.pdb
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.csproj.AssemblyReference.cache
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.Properties.Resources.resources
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.csproj.GenerateResource.cache
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.csproj.CoreCompileInputs.cache
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.exe
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.pdb
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.Form1.resources
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Debug\WindowsFormGame.Form2.resources
