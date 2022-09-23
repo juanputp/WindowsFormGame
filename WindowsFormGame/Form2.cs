@@ -20,7 +20,13 @@ namespace WindowsFormGame
         public Form2()
         {
             InitializeComponent();
-           
+            if (Intentos == 0)
+            {
+                Hide();
+                Visible = false;
+                Form3 form3 = new Form3();
+                form3.Show();
+            }
         }
 
         private void Form2_Load(object sender, EventArgs e)
@@ -31,12 +37,12 @@ namespace WindowsFormGame
 
         public void Questions(int NumQuestion, string Answer)
         {
-
+ 
             switch (NumQuestion)
             {
 
                 case 1:
-                    lblQuestion.Text = "¿Qué trilogía de las películas basadas en los cómics de Marvel recaudó más dinero en taquilla?";
+                    lblQuestion.Text = "¿Qué trilogía de las películas basadas en los cómics de Marvel \n recaudó más dinero en taquilla?";
                     a.Text = "a. Thor";
                     b.Text = "b. Capitán América";
                     c.Text = "c. Iron Man";
@@ -93,7 +99,7 @@ namespace WindowsFormGame
                     }
                     break;
                 case 4:
-                    lblQuestion.Text = "¿Qué enfermedad tenía el legendario astrofísico Stephen Hawking?";
+                    lblQuestion.Text = "¿Qué enfermedad tenía el legendario astrofísico \n Stephen Hawking?";
                     a.Text = "a. Enfermedad de Addison";
                     b.Text = "d. Progeria de Hutchinson-Gilford";
                     c.Text = "c. Esclerosis Lateral Amiotrófica";
@@ -131,7 +137,7 @@ namespace WindowsFormGame
                     }
                     break;
                 case 6:
-                    lblQuestion.Text = "¿En que idioma original fue producida la reconocida película de animación El Viaje de Chihiro?";
+                    lblQuestion.Text = "¿En que idioma original fue producida la reconocida \n película de animación El Viaje de Chihiro?";
                     a.Text = "a. Coreano";
                     b.Text = "b. Japonés";
                     c.Text = "c. Chino";
@@ -150,7 +156,7 @@ namespace WindowsFormGame
                     }
                     break;
                 case 7:
-                    lblQuestion.Text = "¿Aproximadamente, qué porcentaje de la superficie de la Tierra es agua?";
+                    lblQuestion.Text = "¿Aproximadamente, qué porcentaje de la superficie de \n la Tierra es agua?";
                     a.Text = "a. 70%";
                     b.Text = "b. 50%";
                     c.Text = "c. 45%";

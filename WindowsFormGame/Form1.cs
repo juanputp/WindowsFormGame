@@ -37,6 +37,7 @@ namespace WindowsFormGame
             if (txtUser == user && txtPassword == password)
             {
                 MessageBox.Show("Ingreso Exitoso");
+                this.Hide();
                 form2.Show();
             }
             else

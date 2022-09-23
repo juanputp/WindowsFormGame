@@ -10,3 +10,4 @@ C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Release\W
 C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Release\WindowsFormGame.exe
 C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Release\WindowsFormGame.pdb
 C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Release\WindowsFormGame.Form2.resources
+C:\Users\Juanpfrancos\source\repos\WindowsFormGame\WindowsFormGame\obj\Release\WindowsFormGame.Form3.resources
